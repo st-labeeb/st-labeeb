@@ -1,5 +1,6 @@
 ### Hi there... 👋
 
+### I'm a computational neuroscientist that worked on cross-subject transfer learning in visual processing, currently working on expanding their repositroy with new projects!
 <!--
 **st-labeeb/st-labeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
